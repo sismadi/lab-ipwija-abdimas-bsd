@@ -56,17 +56,17 @@ Sebagai dosen pengabdi IPWIJA, saya berperan dalam:
 
 ## 📁 Struktur Direktori (Contoh)
 
-/
-├── public/
-│ └── index.html
-├── js/
-│ ├── main.js
-│ ├── auth.js
-│ └── supabase.js
-├── style/
-│ └── main.css
-├── README.md
-└── .gitignore
+-/
+-├── public/
+-│ └── index.html
+-├── js/
+-│ ├── main.js
+-│ ├── auth.js
+-│ └── supabase.js
+-├── style/
+-│ └── main.css
+-├── README.md
+-└── .gitignore
 
 
 ---
