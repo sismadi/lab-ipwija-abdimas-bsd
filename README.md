@@ -1,8 +1,8 @@
 # lab-ipwija-abdimas-bsd
 
-🎓 **Pengabdian Masyarakat IPWIJA - Aplikasi Bank Sampah Digital**
+🎓 **Pengabdian Masyarakat Univeritas IPWIJA - Aplikasi Bank Sampah Digital**
 
-Repository ini merupakan bagian dari kegiatan *Pengabdian kepada Masyarakat* oleh dosen **IPWIJA (Institut Pengembangan Wirausaha Indonesia)** yang bertujuan untuk membantu digitalisasi sistem pengelolaan bank sampah melalui aplikasi berbasis web.
+Repository ini merupakan bagian dari kegiatan *Pengabdian kepada Masyarakat* oleh dosen **Univeritas IPWIJA (Institut Pengembangan Wirausaha Indonesia)** yang bertujuan untuk membantu digitalisasi sistem pengelolaan bank sampah melalui aplikasi berbasis web.
 
 ---
 
@@ -17,7 +17,7 @@ Repository ini merupakan bagian dari kegiatan *Pengabdian kepada Masyarakat* ole
 
 ## 👨‍🏫 Peran Dosen
 
-Sebagai dosen pengabdi IPWIJA, saya berperan dalam:
+Sebagai dosen pengabdi Univeritas IPWIJA, saya berperan dalam:
 - 🔧 **Perancangan sistem:** Menyusun alur fitur sesuai kebutuhan masyarakat mitra.
 - 💻 **Pengembangan aplikasi:** Menggunakan teknologi berbasis web (JavaScript & Supabase).
 - 🎓 **Pelatihan pengguna:** Memberikan bimbingan teknis penggunaan aplikasi.
@@ -31,7 +31,7 @@ Sebagai dosen pengabdi IPWIJA, saya berperan dalam:
 |----------|------------|
 | Frontend | JavaScript (modular + DOM API) |
 | Backend & DB | Supabase (Auth, Database, Realtime) |
-| Deployment | GitHub Pages / Netlify / Vercel |
+| Deployment | GitHub Pages / Cloudflare |
 
 ---
 
@@ -56,17 +56,17 @@ Sebagai dosen pengabdi IPWIJA, saya berperan dalam:
 
 ## 📁 Struktur Direktori (Contoh)
 
--/
--├── public/
--│ └── index.html
--├── js/
--│ ├── main.js
--│ ├── auth.js
--│ └── supabase.js
--├── style/
--│ └── main.css
--├── README.md
--└── .gitignore
+/ <br>
+├── public/ <br>
+│ └── index.html <br>
+├── js/ <br>
+│ ├── main.js <br>
+│ ├── auth.js <br>
+│ └── supabase.js <br>
+├── style/ <br>
+│ └── main.css <br>
+├── README.md <br>
+└── .gitignore <br>
 
 
 ---
